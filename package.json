@@ -1,0 +1,27 @@
+{
+  "name": "perfection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wirno/perfection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wirno/perfection/issues"
+  },
+  "homepage": "https://github.com/wirno/perfection#readme",
+  "devDependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.15"
+  }
+}
